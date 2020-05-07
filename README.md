@@ -1,4 +1,4 @@
-# ArtisticStyleTransfer-CNN
+# Artistic Style Transfer Using CNN
 
 # Decription
 
