@@ -8,9 +8,7 @@ Neural Style Artistic Transfer is a deep learning technique that merges two imag
 
 This model is implemented using Transfer Learning. It uses a previously trained convolutional network, and builds on top of that. 
 
-Following the original paper, this model is built using the VGG19 network.
-
-VGG-19, a 19-layer version of the VGG network. 
+Following the original paper, this model is built using the VGG19 network (19-layer version of the VGG network) 
 
 This model has already been trained on the very large ImageNet database, and therefore has learned to recognize a variety of features at the earlier and deeper layers. This pretrained model was taken from the MatConvNet.
 
