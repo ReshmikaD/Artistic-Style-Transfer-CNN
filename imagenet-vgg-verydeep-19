@@ -1,0 +1,2 @@
+This model uses: imagenet-vgg-verydeep-19
+The pretrained model used for this algorithm was downloaded at http://www.vlfeat.org/matconvnet/pretrained/.
